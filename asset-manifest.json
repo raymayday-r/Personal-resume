@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Personal-resume/static/css/main.2c43e1f7.css",
+    "main.js": "/Personal-resume/static/js/main.beff85fc.js",
+    "static/media/NotoSansTC-Regular.ttf": "/Personal-resume/static/media/NotoSansTC-Regular.d85aa51d9a2de01f56b9.ttf",
+    "static/media/NotoSansTC-Medium.ttf": "/Personal-resume/static/media/NotoSansTC-Medium.606e090b80b0b57c843c.ttf",
+    "static/media/NotoSansTC-Bold.ttf": "/Personal-resume/static/media/NotoSansTC-Bold.999e82458139273a2cff.ttf",
+    "static/media/Meeting to discuss.png": "/Personal-resume/static/media/Meeting to discuss.63bc0128babf822b449f.png",
+    "static/media/introduce yourself.png": "/Personal-resume/static/media/introduce yourself.e7153aad492c29a086a2.png",
+    "static/media/work background.jpeg": "/Personal-resume/static/media/work background.dfef58dfdd4b05cac3c2.jpeg",
+    "static/media/CascadiaMono-Regular.ttf": "/Personal-resume/static/media/CascadiaMono-Regular.07f9b27830769dd74996.ttf",
+    "index.html": "/Personal-resume/index.html",
+    "main.2c43e1f7.css.map": "/Personal-resume/static/css/main.2c43e1f7.css.map",
+    "main.beff85fc.js.map": "/Personal-resume/static/js/main.beff85fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c43e1f7.css",
+    "static/js/main.beff85fc.js"
+  ]
+}
