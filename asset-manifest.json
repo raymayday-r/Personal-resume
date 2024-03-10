@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/Personal-resume/static/css/main.2c43e1f7.css",
-    "main.js": "/Personal-resume/static/js/main.119e8ac1.js",
-    "static/media/NotoSansTC-Regular.ttf": "/Personal-resume/static/media/NotoSansTC-Regular.d85aa51d9a2de01f56b9.ttf",
-    "static/media/NotoSansTC-Medium.ttf": "/Personal-resume/static/media/NotoSansTC-Medium.606e090b80b0b57c843c.ttf",
-    "static/media/NotoSansTC-Bold.ttf": "/Personal-resume/static/media/NotoSansTC-Bold.999e82458139273a2cff.ttf",
+    "main.css": "/Personal-resume/static/css/main.8c2995b2.css",
+    "main.js": "/Personal-resume/static/js/main.f90d1ac1.js",
     "static/media/CascadiaMono-Regular.ttf": "/Personal-resume/static/media/CascadiaMono-Regular.07f9b27830769dd74996.ttf",
     "static/media/work background.png": "/Personal-resume/static/media/work background.5b2db567a37d02a7f7ba.png",
     "static/media/Meeting to discuss.jpg": "/Personal-resume/static/media/Meeting to discuss.d7d2bc9c02c692b8bd85.jpg",
     "static/media/introduce yourself.jpg": "/Personal-resume/static/media/introduce yourself.f791628a3269201632d1.jpg",
     "index.html": "/Personal-resume/index.html",
-    "main.2c43e1f7.css.map": "/Personal-resume/static/css/main.2c43e1f7.css.map",
-    "main.119e8ac1.js.map": "/Personal-resume/static/js/main.119e8ac1.js.map"
+    "main.8c2995b2.css.map": "/Personal-resume/static/css/main.8c2995b2.css.map",
+    "main.f90d1ac1.js.map": "/Personal-resume/static/js/main.f90d1ac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c43e1f7.css",
-    "static/js/main.119e8ac1.js"
+    "static/css/main.8c2995b2.css",
+    "static/js/main.f90d1ac1.js"
   ]
 }
